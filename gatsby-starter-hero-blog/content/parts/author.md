@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Alex Kalinin** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**Alex Kalinin** Software dev, like playing with infrastructure and networking.

@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Alex Kalinin - Blog", // <title>
   shortSiteTitle: "Blog", // <title> ending for posts and pages
   siteDescription: "Alex Kalinin Blog",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteUrl: "https://blog.kalinin.uk",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
