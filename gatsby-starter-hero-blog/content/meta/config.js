@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "Alex Kalinin",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerSubTitle: "I love breaking shit",
 
   /* manifest.json */
   manifestName: "HeroBlog - a GatsbyJS starter",
